@@ -5,10 +5,10 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hermit:pixelsize=13:antialias=true:autohint=false";
+static char *font = "mononoki:pixelsize=14:antialias=true:autohint=false";
 /* Spare fonts */
 static char *font2[] = {
-	"Symbols Nerd Font:pixelsize=13:antialias=true:autohint=false",
+/*	"Symbols Nerd Font:pixelsize=13:antialias=true:autohint=false", */
 /*	"Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
 };
 
